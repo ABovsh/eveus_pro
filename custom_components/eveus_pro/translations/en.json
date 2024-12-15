@@ -1,0 +1,15 @@
+{
+    "title": "Eveus Pro Charger",
+    "config": {
+        "step": {
+            "user": {
+                "description": "Set up your Eveus Pro charger.",
+                "data": {
+                    "charger_ip": "Charger IP Address",
+                    "username": "Username",
+                    "password": "Password"
+                }
+            }
+        }
+    }
+}

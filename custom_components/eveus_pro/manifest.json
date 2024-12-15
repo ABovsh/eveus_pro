@@ -1,0 +1,9 @@
+{
+    "domain": "eveus_pro",
+    "name": "Eveus Pro",
+    "version": "1.0.0",
+    "documentation": "https://github.com/ABovsh/eveus_pro",
+    "requirements": [],
+    "dependencies": [],
+    "codeowners": ["@ABovsh"]
+}
